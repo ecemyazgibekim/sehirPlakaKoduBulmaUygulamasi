@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sehirPlakaKoduBulma</string>
+    <string name="spkodu">Şehir plaka kodunu giriniz.</string>
+    <string name="bul">Bul</string>
+    <string name="sonuc">Şehir ismi</string>
+
+
+
+</resources>
